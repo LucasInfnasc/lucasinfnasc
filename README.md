@@ -98,11 +98,3 @@ IT Professional with 5+ years of experience in infrastructure management, techni
 - **Location:** Rio de Janeiro, Brazil
 
 ---
-
-<div align="center">
-  
-![Visitor Count](https://komarev.com/gh/lucasinfnasc?color=blue&style=flat-square)
-  
-*"Transforming IT infrastructure through automation and best practices"*
-
-</div>
