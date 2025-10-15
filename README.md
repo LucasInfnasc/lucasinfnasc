@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=lucasinfnasc&show_icons=true&theme=transparent" alt="ilustração do status do github">
 
-### Lucas Infante Nascimento 🚀
+### Hi, i'm Lucas Infante Nascimento 🚀
 
 **IT Analyst | Cloud Infrastructure | DevOps Enthusiast**  
 📍 Rio de Janeiro, Brazil
@@ -25,17 +25,17 @@ IT Professional with 5+ years of experience in infrastructure management, techni
 ## 🛠 Technical Competencies
 
 ### **Infrastructure & Monitoring**
-![GLPI](https://img.shields.io/badge/GLPI-ITIL_Service_Management-orange)
+![GLPI](https://img.shields.io/badge/GLPI-ITIL_Service_Management-blue)
 ![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring_&_Alerting-red)
 ![Grafana](https://img.shields.io/badge/Grafana-Dashboards_&_Visualization-orange)
-![Wazuh](https://img.shields.io/badge/Wazuh-Security_Monitoring-green)
-![Proxmox](https://img.shields.io/badge/Proxmox-Virtualization-purple)
+![Wazuh](https://img.shields.io/badge/Wazuh-Security_Monitoring-blue)
 
 ### **Cloud & Virtualization**
 ![AWS EC2](https://img.shields.io/badge/AWS-EC2-orange)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
 ![Hyper-V](https://img.shields.io/badge/Hyper_V-Virtualization-blue)
-![Windows Server](https://img.shields.io/badge/Windows_Server-Active_Directory-blue)
+![Windows Server](https://img.shields.io/badge/Windows_Server-Active_Directory-green)
+![Proxmox](https://img.shields.io/badge/Proxmox-Virtualization-orange)
 
 ### **Operating Systems**
 ![Linux](https://img.shields.io/badge/Linux-Debian/Ubuntu/CentOS-yellow)
