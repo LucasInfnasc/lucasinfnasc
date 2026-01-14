@@ -2,8 +2,6 @@
 
 # Hi, I'm Lucas Infante Nascimento 🧠
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=lucasinfnasc&show_icons=true&theme=transparent" alt="GitHub Stats">
-
 **IT Analyst | Systems Administration | Cloud Infrastructure | DevOps Enthusiast**  
 
 📍 Rio de Janeiro, Brazil  
