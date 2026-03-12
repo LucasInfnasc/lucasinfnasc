@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-IT professional with 5+ years of experience in **infrastructure management**, **system administration**, and **technical support**.  
+IT professional with 7+ years of experience in **infrastructure management**, **system administration**, and **technical support**.  
 Strong background in deploying, maintaining, and securing **virtualized environments**, with expertise in **Linux systems**, **monitoring**, and **cloud technologies**.  
 Currently pursuing a postgraduate degree in **Information Security** while expanding knowledge in **automation and infrastructure scalability** through hands-on lab environments.
 
